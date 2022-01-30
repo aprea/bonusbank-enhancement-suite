@@ -2,7 +2,7 @@
 
 Adds features to enhance your bonusbank.com.au experience.
 
-<img src="https://cdn-std.droplr.net/files/acc_1201650/FcVTjj" width="1280" height="850" alt="Bonusbank Enhancement Suite demo">
+<img src="https://cdn-std.droplr.net/files/acc_1201650/FcVTjj" width="1280" height="850" alt="Bonusbank Enhancement Suite demo" style="height: auto;">
 
 ## Install
 
